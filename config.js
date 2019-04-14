@@ -4,10 +4,10 @@ module.exports = {
   siteUrl: 'https://lgcolella.github.io',
   siteTitle: 'Christian Lehr',
   siteDescription: 'Logbook of a software developer',
-  author: 'lcolella',
+  author: 'Christian Lehr',
   postsForArchivePage: 3,
   defaultLanguage: 'en',
-  disqusScript: 'https://luigi-colella.disqus.com/embed.js',
+  disqusScript: 'https://lehr.disqus.com/embed.js',
   pages: {
     home: '/',
     blog: 'blog',
