@@ -53,6 +53,10 @@ module.exports = {
     vuejs: {
       name: 'Vue.js',
       description: 'Vue.js is a JavaScript framework for building interactive web applications.'
+    },
+    git: {
+      name: 'Git',
+      description: 'Git is a distributed version-control system for tracking changes in source code during software development.'
     }
   }
 }
