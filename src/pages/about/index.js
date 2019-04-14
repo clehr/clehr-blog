@@ -22,7 +22,7 @@ const About = ({ data: { profilePhoto, skillIcons, toolIcons } }) => {
           <Img fluid={profilePhoto.childImageSharp.fluid} />
         </div>
         <div className={style.content}>
-          <h1>Hi, I'm Luigi!</h1>
+          <h1>Hi, I'm Christian!</h1>
           <h2>Software Developer</h2>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur
