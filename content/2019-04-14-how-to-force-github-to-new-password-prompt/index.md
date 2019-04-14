@@ -2,7 +2,7 @@
 title: 403 Forbidden error message when you try to push to a GitHub repository using HTTPS
 date: 2019-04-14
 tags: [git]
-path: blog/build-a-blog-under-5-min
+path: blog/enforce-new-password-prompt-when-pushing-to-github
 cover: ./preview.png
 excerpt: I created a new github account and wanted to push my first project to it. This article shows you how to enforce a new password prompt when getting a 403 error during git push.
 ---
