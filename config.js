@@ -2,7 +2,7 @@
 module.exports = {
   pathPrefix: '/gatsby-starter-developer-blog',
   siteUrl: 'https://lgcolella.github.io',
-  siteTitle: 'Luigi Colella',
+  siteTitle: 'Christian Lehr',
   siteDescription: 'Logbook of a software developer',
   author: 'lcolella',
   postsForArchivePage: 3,
@@ -16,7 +16,7 @@ module.exports = {
     archive: 'archive'
   },
   social: {
-    github: 'https://github.com/lgcolella',
+    github: 'https://github.com/clehr',
     linkedin: '',
     rss: '/rss.xml'
   },
