@@ -3,7 +3,7 @@ module.exports = {
   pathPrefix: '/gatsby-starter-developer-blog',
   siteUrl: 'https://www.chlehr.com',
   siteTitle: 'Christian Lehr',
-  siteDescription: 'Logbook of a software developer',
+  siteDescription: 'Blog of my technical learnings and other stuff',
   author: 'Christian Lehr',
   postsForArchivePage: 3,
   defaultLanguage: 'en',
