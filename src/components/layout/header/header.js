@@ -1,7 +1,7 @@
 /* Vendor imports */
 import React, { Component } from 'react'
 import { Link } from 'gatsby'
-import { FaBars, FaTimes, FaGithub, FaLinkedin, FaRss } from 'react-icons/fa'
+import { FaBars, FaTimes, FaGithub, FaRss, FaFacebook } from 'react-icons/fa'
 /* App imports */
 import style from './header.module.less'
 import Config from '../../../../config'
@@ -108,9 +108,9 @@ class Header extends Component {
             <a
               target="_blank"
               rel="nofollow noopener noreferrer"
-              href={Config.social.linkedin}
+              href={Config.social.facebook}
             >
-              <FaLinkedin size="30" />
+              <FaFacebook size="30" />
             </a>
           </li>
           <li>
