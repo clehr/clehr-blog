@@ -17,8 +17,8 @@ module.exports = {
   },
   social: {
     github: 'https://github.com/clehr',
-    linkedin: '',
     facebook: 'https://www.facebook.com/christian.lehr.54',
+    twitter: 'https://twitter.com/Clehr8',
     rss: '/rss.xml'
   },
   tags: {
