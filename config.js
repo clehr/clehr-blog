@@ -57,6 +57,10 @@ module.exports = {
     git: {
       name: 'Git',
       description: 'Git is a distributed version-control system for tracking changes in source code during software development.'
+    },
+    other: {
+      name: 'Other',
+      description: 'Everything offtopic that is not related to programming.'
     }
   }
 }
