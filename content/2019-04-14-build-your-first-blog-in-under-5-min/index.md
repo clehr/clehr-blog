@@ -17,7 +17,7 @@ At the same time I wanted to start my first own blog so I decided to kill two bi
 (I heard from some frontend developers on a conference that it is
 currently the new hype for react developers.)
 
-Although I think the documentation from Gatsby is quite good it wasn't as much on point as I wished for.
+Although I think the documentation from Gatsby is quite good it wasn't as on point as I wished for.
 This is why I wanted to write a small post where I share with you how to setup and deploy a blog in under 5 minutes.
 
 ## Setup
@@ -61,7 +61,7 @@ gatsby develop
 
 To deploy your blog we will use `surge`.
 
-1. Install Surge and create a free acount:
+1. Install Surge and create a free account:
 
 ```none
 npm install --global surge

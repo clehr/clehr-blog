@@ -1,7 +1,7 @@
 
 module.exports = {
   pathPrefix: '/gatsby-starter-developer-blog',
-  siteUrl: 'https://lgcolella.github.io',
+  siteUrl: 'https://www.chlehr.com',
   siteTitle: 'Christian Lehr',
   siteDescription: 'Logbook of a software developer',
   author: 'Christian Lehr',
