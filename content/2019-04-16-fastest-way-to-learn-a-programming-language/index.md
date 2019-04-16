@@ -97,7 +97,7 @@ So whenever you are in the desert of despair talk to your mentor, get inspiratio
 
 Here I want to show you some resource that I found quite helpful when starting programming:
 
-**1. https://stackoverflow.com --> still the number one resources for experienced programmers**
+**1. https://stackoverflow.com --> still the number one resource even for experienced programmers**
 
 **2. https://www.w3schools.com --> from learning sql to python and making your own website (comes together with a try out editor)**
 
