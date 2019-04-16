@@ -4,13 +4,9 @@ date: 2019-04-16
 tags: [other]
 path: blog/fastest-way-to-learn-a-programming-language-for-beginners
 cover: ./preview.jpg
-excerpt: In this blog post I want to share my personal thoughts of what I think is the best way for beginners to learn a new programming language.
+excerpt: So of course learning is a huge topic and also in the end everyone will have to find his own ways of learning but here
+         at least I want to share my thoughts of what good learning is meaning to me and what is the fastest way to learn programming.
 ---
-
-So of course learning is a huge topic and also in the end everyone will have to find his own ways of learning but here
-at least I want to share my thoughts of what good learning is meaning to me and what is the fastest way to learn programming.
-
-Good learning to me means:
 
 ##1. It is motivating:
 I think since we are young every one of us has this natural curiousness that unfortunately to
@@ -95,6 +91,21 @@ And feeling stuck and how to get over this is also part of the learning process 
 It it called the desert of despair).
 
 So whenever you are in the desert of despair talk to your mentor, get inspiration and you will be out in no time :)
+
+
+##5. Resources for beginners
+
+Here I want to show you some resource that I found quite helpful when starting programming:
+
+**1. https://stackoverflow.com --> still the number one resources for experienced programmers**
+
+**2. https://www.w3schools.com --> from learning sql to python and making your own website (comes together with a try out editor)**
+
+**3. https://stackblitz.com --> code your applications directly in the browser without doing the whole painful setup that is often worse for beginners.**
+
+**4. https://codepen.io --> live editor for html, css and javascript: especially good when you want to increase your frontend skills. Here you can also get a lot of inspiration from other members and their works**
+
+**5. https://onemonth.com --> cool site to learn about a lot of languages/frameworks by doing projects yourself in about one month (not for free)**
 
 
 
