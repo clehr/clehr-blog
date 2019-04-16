@@ -69,7 +69,7 @@ and customize it. You could also create a new feature that's similar to an exist
 **For me good and motivating learning is 70% copying and 30% transfer/own ideas.**
 
 One more idea is that when you follow a tutorial, don't just copy and paste what they tell you.
-Instead be creative and again do transfer here. When they are for example they are programming a website about displaying and rating movies.
+Instead be creative and again do transfer here. When they are for example programming a website about displaying and rating movies.
 
 Ask yourself: **What I am else interested in?** And do for example a website about books or sports.  
 **Learning the same thing with a lot of variations
