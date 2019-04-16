@@ -24,25 +24,34 @@ often decreases as we grow older.
 This can have many reasons: Maybe we know we already know enough and there is nothing interesting left to learn anymore.
 Or maybe we think we are too old to learn new things (from my experience especially in Europe we think that way).
 
-When I was younger I had a guitar teacher who told me about older men 60+ who still learnt to play beautifully the guitar and he 
-encouraged everyone who wants to learn that it is possible regardless of the age.
+![guitar](./musician.jpg "When I was younger I had a guitar teacher who told me about older men 60+ who still learnt to play beautifully the guitar and he 
+                          encouraged everyone who wants to learn that it is possible regardless of the age.")
+
 
 I got inspired by stories like this and therefore think it's really important to keep learning fun.
 There are people who think learning has to be hard (like in the school when learning math) but I am convinced that even math and certainly programming
 can be taught in a fun way and that right from the start. 
 
-I remember that we learnt fractions with cake and pizza :D Why dont we use this philosophy more often?
+![pizza](./pizza.jpg "I remember that we learnt fractions with cake and pizza :D")
+
+Why dont we use this philosophy more often?
 For learning programming that could mean: Build applications together with your friends. Build something that really motivates you and that you consider as a cool application.
 
-For example you build a spotify or your own personal website. Something that brings value to you even.
+For example you build a spotify clone or your own personal website. Something that brings value to you even.
 
 ##2. <a name="smallsteps"></a>Good learning is based on small doable steps:
 This is one lesson that I learned when starting the violin. There it's almost impossible to learn all steps that need to be done at the same time all at once.
-Therefor you often separate each task and practice this one isolated until it feels more natural. I think we should also do this for learning programming.
-When we want to learn a new framework it can be very overwhelming learning all at once. Why not just learn it step per step?
+Therefor you often separate each task and practice this one isolated until it feels more natural. 
+
+I think we should also do this for learning programming.
+When we want to learn a new framework it can be very overwhelming learning all at once. 
+
+**Why not just learn it step per step?**
 
 For example when learning Angular you could start just doing one big component that contains the whole html.
-And when it grows too big then you will divide it into smaller components. So that you first can concentrate purely on the html and later learn the splitting.
+And when it grows too big then you will divide it into smaller components. 
+
+So that you first can concentrate purely on the html and later learn the splitting.
 The data don't have to come from a service right from the start.
  
 It's enough when they come from an array which mocks your data.
@@ -50,8 +59,10 @@ Just ask yourself **do I really need this solution right now?**
 
 
 **Here you should follow the 80/20 principle.** Do 80 percent of your work just in 20 percent of the time.
-A good analogy for building software that way would be building a sculpture. Here you also first build the shape really roughly before adding the details
-one after another later on.
+
+![monkey](./monkey.png "A good analogy for building software that way would be building a sculpture. Here you also first build the shape really roughly before adding the details
+                        one after another later on.")
+
 
 Another approach could be that you check out an existing project and you play around with it
 and customize it. You could also create a new feature that's similar to an existing one.
@@ -60,12 +71,15 @@ and customize it. You could also create a new feature that's similar to an exist
 One more idea is that when you follow a tutorial, don't just copy and paste what they tell you.
 Instead be creative and again do transfer here. When they are for example they are programming a website about displaying and rating movies.
 
-Ask yourself: **What I am else interested in?** And do for example a website about books or sports. 
+Ask yourself: **What I am else interested in?** And do for example a website about books or sports.  
 **Learning the same thing with a lot of variations
 is the most efficient way of learning!**
 
-Of course with this approach its not always possible to stick to best practices right from the start but at least you will better 
-experience why you need those kind of concepts. Remember learning is about experiencing something yourself and not only listening to someone that tells you how to do things right.
+![lightbulb](./lightbulb.jpg "Of course with this approach its not always possible to stick to best practices right from the start but at least you will better 
+                               experience why you need those kind of concepts. ")
+
+
+Remember learning is about experiencing something yourself and not only listening to someone that tells you how to do things right.
 
 When you ask what would be an approach to split your steps into small enough steps I would say a good small step is a step
 that has like **40-60% difficulty** to you. Of course this will vary from one person to another.
@@ -73,18 +87,20 @@ that has like **40-60% difficulty** to you. Of course this will vary from one pe
 ##3. <a name="mentor"></a>Learn with a mentor & Connect:
 I think the best way of learning things is by a mentor who supports you and encourages you to grow.
 We are social creatures and learning should be no exception to that.
- 
-It's proven that we learn better when we feel that we are
-in an open environment where we can ask questions and don't get judged for it.
+
+![rafting](./rafting.jpg "It's proven that we learn better when we feel that we are
+                          in an open environment where we can ask questions and don't get judged for it.")
 
 Also often its just more efficient and motivating to ask another person for a solution or at least a hint so that you won't have
-to search for a solution a whole day alone. Of course it can also have benefits to learn things on your own as you are forced to reflect on certain things.
+to search for a solution a whole day alone. 
 
-My rule of thumb would be try to learn a thing for 30min-2h hours alone. If it's just not possible for the moment then you should definitely ask!
+Of course it can also have benefits to learn things on your own as you are forced to reflect on certain things.
 
-One cool organization that I started with my friend is based on the mentoring principle. It's called DevConnect and it's an organization to help people getting 
-into programming.
+My rule of thumb would be try to learn a thing for **30min-2h** hours alone. If it's just not possible for the moment then you should definitely ask!
 
+
+![devconnect](./devconnect.png "One cool organization that I started with my friend is based on the mentoring principle. It's called DevConnect and it's an organization to help people getting 
+                                into programming.")
 
 It would be really cool if you would participate in that.
 
@@ -110,18 +126,19 @@ The level of **consciousness**.
 
 When I am watching an anime I just focus on the content but I don't take the time to really go into detail and learn all the words. (of course japanese is a bit more difficult than spanish but you get the point :D)
 
-When I learned spanish I took the time to translate songs and then sing along with them and was making progress quite quick.
+![headphones](./headphones.jpg "When I learned spanish I took the time to translate songs and then sing along with them and was making progress quite quick.")
 
-So applied to learning programming that means that you should ask yourself 
-
+So applied to learning programming that means that you should ask yourself:  
 **Why am I doing this now? What is the benefit of doing x? Could I achieve y in another more simple way?**
 
 So this is all that I could spontaneously think of how to learn program the fastest way.
 
 And feeling stuck and how to get over this is also part of the learning process (for learning programming there is even a term for it.
-It it called the desert of despair).
+It is called the desert of despair).
 
-So whenever you are in the desert of despair talk to your mentor, get inspiration and you will be out in no time :)
+
+![desert](./desert.jpg "So whenever you are in the desert of despair talk to your mentor, get inspiration and you will be out in no time :)
+")
 
 
 ##5. <a name="resources"></a>Resources for beginners
