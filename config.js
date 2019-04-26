@@ -1,6 +1,6 @@
 
 module.exports = {
-  pathPrefix: '/gatsby-starter-developer-blog',
+  pathPrefix: '/',
   siteUrl: 'https://www.chlehr.com',
   siteTitle: 'Christian Lehr',
   siteDescription: 'Blog of my technical learnings and other stuff',
