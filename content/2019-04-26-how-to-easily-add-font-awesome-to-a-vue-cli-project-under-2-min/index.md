@@ -66,9 +66,6 @@ Vue.component('font-awesome-icon', FontAwesomeIcon)
 <Icon icon="twitter" text="@devconnectHH" />
 ```
 
-That's it was not so hard was it? Happy Coding!
-
-
 ##Search for free icons
 To search for free icons have a look here:
 
