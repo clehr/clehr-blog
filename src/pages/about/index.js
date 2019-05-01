@@ -39,7 +39,7 @@ const About = ({ data: { profilePhoto, skillIcons, toolIcons } }) => {
         </div>
 
         <div className='impressum'><h1>Impressum</h1><p>Angaben gemäß § 5 TMG</p><p>Christian Lehr <br/>
-          Berliner Straße%2C 105<br/>
+          Berliner Straße 105<br/>
           21614 Buxtehude <br/>
         </p><p><strong>Vertreten durch: </strong><br/>
           Christian Lehr<br/>
