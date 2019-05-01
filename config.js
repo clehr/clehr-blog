@@ -62,6 +62,14 @@ module.exports = {
     other: {
       name: 'Other',
       description: 'Everything offtopic that is not related to programming.'
+    },
+    artificial_intelligence: {
+      name: 'Artificial Intelligence',
+      description: 'Artificial intelligence (AI) is the simulation of human intelligence processes by machines, especially computer systems.'
+    },
+    python: {
+      name: 'Python',
+      description: 'Python is an interpreted, high-level, general-purpose programming language created by Guido van Rossum and first released in 1991.'
     }
   }
 }
