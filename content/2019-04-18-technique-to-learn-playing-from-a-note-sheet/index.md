@@ -7,7 +7,7 @@ cover: ./preview.jpg
 excerpt: In this post I want to describe a technique that I use to get better at playing songs from a note sheet.
 ---
 
-Let's say you where about to learn the song 'Twinkle twinkle little Star' on the violin or piano (but I guess this technique should work for every instrument).
+Let's say you were about to learn the song 'Twinkle twinkle little Star' on the violin or piano (but I guess this technique should work for every instrument).
 
 The technique we will use is fairly simple: Look at the note you want to play and say its name loud before you play it.
   
