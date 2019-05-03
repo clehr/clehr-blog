@@ -44,7 +44,7 @@ if you want to use social icons like the one from twitter make sure to install t
  npm i --save @fontawesome/free-brands-svg-icons
  ```
  
-2. Add it to your **fontwesome.js**. It should look like the following:
+2. Add it to your **fontawesome.js**. It should look like the following:
  
 ```javascript
 import Vue from 'vue'
@@ -63,7 +63,7 @@ Vue.component('font-awesome-icon', FontAwesomeIcon)
 3. Now you can use the twitter icon like this:
 
 ```html
-<Icon icon="twitter" text="@devconnectHH" />
+      <font-awesome-icon :icon="['fab', 'twitter']" size="3x" />
 ```
 
 ##Search for free icons
