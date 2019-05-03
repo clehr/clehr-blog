@@ -63,7 +63,7 @@ Vue.component('font-awesome-icon', FontAwesomeIcon)
 3. Now you can use the twitter icon like this:
 
 ```html
-<font-awesome-icon :icon="['fab', 'twitter']" size="3x" />
+<font-awesome-icon icon="['fab', 'twitter']" size="3x" />
 ```
 
 ##Search for free icons
