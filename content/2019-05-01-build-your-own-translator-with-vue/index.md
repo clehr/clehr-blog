@@ -155,7 +155,7 @@ Therefor add an event handler to your button like this:
 ```
 
 Also we have to define a method translate to tell our button WHAT to do. With the @click we tell the
-button THAT it should do something when it gets CLICKED. The methods looks like this:
+button THAT it should do something when it gets CLICKED. The method looks like this:
 
 ```javscript
 translate() {
