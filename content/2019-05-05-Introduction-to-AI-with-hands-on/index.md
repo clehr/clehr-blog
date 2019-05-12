@@ -7,6 +7,21 @@ cover: ./AI.jpg
 excerpt: In this post we will do our first AI project together using the kmeans algorithm with Python to try finding clusters in our spotify data!
 ---
 
+# What does K-Means means?
+
+K-means clustering is a type of **unsupervised learning**, 
+which is used when you have unlabeled data (i.e., data without defined categories or groups).
+ 
+The goal of this algorithm is to find groups in the data,
+with the number of groups represented by the variable K.
+For example if K would have the value 3 the algorithm would try to find 3 clusters/groups in our data. 
+
+The algorithm iteratively assigns each data point to one of K (e.g. 3) groups based on the features that are provided. 
+
+Data points are clustered based on similarity.    
+
+# Steps to use k-Means in a Google Jupiter Notebook
+
 1. Go to https://colab.research.google.com/
 
 2. Create a new Python 3 Notebook.
@@ -56,8 +71,18 @@ excerpt: In this post we will do our first AI project together using the kmeans 
     ```
     
     Note: it will probably ask you to go to another site. On that site you will find the key you have to enter into the upcoming input field 
-    for verification.
+    for verification. 
     
+    Also have in mind that you have to find out and put the id of your own **top2018.csv** file.
+    if you will use the mentioned **id** in     **json_import = drive.CreateFile({'id':'1Casrjx_QyieSrAVuJ1-gScduwvZFGXcr'})**
+    it will probably won't work for you.
+    
+    To find out the id find the file in your google drive, do right click and hit "get shareable link". In the shown link you will have the id.
+    
+    Have a look at following image:
+    
+    ![id](./id.png)
+   
 6. Add a new code section and import some libraries that we need to do our operations later
    
    ```Python
