@@ -28,6 +28,8 @@ const About = ({ data: { profilePhoto, skillIcons, toolIcons } }) => {
             I'm a 28 years old developer who is always curious about learning new things let it be
             programming or other things like cooking, violin or learning languages like russian, japanese.
 
+            <br/><br/>
+
             It's my goal to find out about how to learn things efficiently and with a lot of fun and show that
             to other people because in my opinion learning should be all about fun!
           </p>
