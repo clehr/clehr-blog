@@ -122,11 +122,6 @@ class Header extends Component {
               <FaTwitter size="30" />
             </a>
           </li>
-          <li>
-            <Link to={Utils.resolveUrl(Config.social.rss)}>
-              <FaRss size="30" />
-            </Link>
-          </li>
         </ul>
       </div>
     </div>
