@@ -1,6 +1,6 @@
 ---
 title: Learn how to align your items evenly with flexbox
-date: 2019-05-05
+date: 2019-05-12
 tags: [sass]
 path: blog/2019-05-12-flexbox-space-items-evenly
 cover: ./flexbox.jpg
