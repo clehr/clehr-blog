@@ -164,6 +164,9 @@ Data points are clustered based on similarity.
     ![result](./result.png "As we said before the data cannot be split into clusters (we told kmeans in this case to find 3 clusters)
                                 but still you get an idea of how it might work. If you want you can try other datasets from Keggle and maybe you will find
                                 data that can be clustered more easily.")
+                                
+                                
+    If there should be any issues during following the tutorial please leave a comment below or feel free to contact me directly on social media :)
     
     
 
