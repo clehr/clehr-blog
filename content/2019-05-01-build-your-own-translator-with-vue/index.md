@@ -7,9 +7,17 @@ cover: ./translate.jpg
 excerpt: In this post I will show you how to easily build your own translator by using the Google translation API 
 ---
 
-# Why a translator?
+# Overview
 
-I think a translator fits well for one of your first projects as the functionality is easily understandable and not so complex.
+[1. Why a translator?](#why)  
+[2. Setup your project](#setup)  
+[3. Create the UI](#UI)  
+[4. Add the logic](#logic)  
+[5. Further reading](#ideas)
+
+# 1. <a name="why"></a>Why a translator?
+
+I think a translator fits well for one of your first projects as the functionality is easily understandable and the logic is not so complex to implement.
 In addition you will:
 
 - easily create your project with the vue cli
@@ -17,7 +25,7 @@ In addition you will:
 - make your first REST Call
 
 
-# Setup your project
+# 2. <a name="setup"></a>Setup your project
 
 install:
 
@@ -51,7 +59,7 @@ you should see something like:
 ![start](./start_page.png)
 
 
-# Create the UI
+# 3. <a name="UI"></a>Create the UI
 
 Our UI in this scenario will be really simple.
 
@@ -130,7 +138,7 @@ your browser should show you something like the following:
 
 ![UI](./UI.png)
 
-# Add the logic
+# 4. <a name="logic"></a>Add the logic
 
 When we click now on our button nothing will happen. Let's change this.
 
@@ -434,7 +442,7 @@ Try also to manually open the url in your browser:
  That's it! You did it!
  
  
- # Ideas for improving
+ # 5. <a name="ideas"></a>Ideas for improving
  
  If you want to enhance the functionality of your translator you could:
  
