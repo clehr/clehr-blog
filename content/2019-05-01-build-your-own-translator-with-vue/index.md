@@ -1,5 +1,5 @@
 ---
-title: Build your own translator in Vue in 5 min.
+title: Build your own translator in Vue in 10 min.
 date: 2019-05-01
 tags: [vuejs, javascript]
 path: blog/2019-05-01-build-your-own-translator-with-vue
