@@ -57,11 +57,13 @@ The **.flex-container** is the important part:
 
 And that's it! Now you know how to align your items evenly in a row :)
 
+## Live Example ##
+
 If you want to play around a bit more you can use following codesandbox example:
 
 https://codesandbox.io/s/mmm9647knj?fontsize=14
 
-
+## More Tips ##
 Flexbox can do a lot more than this example.
 For More tips and tricks on how to use flexbox visit:
 
