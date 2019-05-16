@@ -4,7 +4,7 @@ date: 2019-05-05
 tags: [python, artificial_intelligence]
 path: blog/2019-05-05-Introduction-to-AI-with-hands-on
 cover: ./AI.jpg
-excerpt: In this post we will do our first AI project together using the kmeans algorithm with Python to try finding clusters in our spotify data!
+excerpt: In this post we will do our first AI project together using the k-means algorithm with Python to try finding clusters in our spotify data!
 ---
 
 # What does K-Means means?
