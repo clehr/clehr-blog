@@ -1,5 +1,5 @@
 ---
-title: (Easy to follow) Introduction to AI with Kmeans, Python and Google Collaboratory 
+title: (Easy to follow) Introduction to AI with K-means, Python and Google Collaboratory 
 date: 2019-05-05
 tags: [python, artificial_intelligence]
 path: blog/2019-05-05-Introduction-to-AI-with-hands-on
