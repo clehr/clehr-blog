@@ -1,5 +1,5 @@
 ---
-title: (Easy to follow) Introduction to AI with Kmeans, Python and Google Jupiter Notebook 
+title: (Easy to follow) Introduction to AI with Kmeans, Python and Google Collaboratory 
 date: 2019-05-05
 tags: [python, artificial_intelligence]
 path: blog/2019-05-05-Introduction-to-AI-with-hands-on
@@ -20,7 +20,7 @@ The algorithm iteratively assigns each data point to one of K (e.g. 3) groups ba
 
 Data points are clustered based on similarity.    
 
-# Steps to use k-Means in a Google Jupiter Notebook
+# Steps to use k-Means in a Google Collaboratory
 
 1. Go to https://colab.research.google.com/
 
@@ -35,7 +35,7 @@ Data points are clustered based on similarity.
    ![download](./download_data_set.png)
 
   
-4. Save your will file (top2018.csv in our case) next to where your google jupiter notebook is.
+4. Save your will file (top2018.csv in our case) next to where your google collaboratory document is.
 
     ![top2018](./location_of_dataset.png)
 
@@ -77,7 +77,7 @@ Data points are clustered based on similarity.
     if you will use the mentioned **id** in     **json_import = drive.CreateFile({'id':'1Casrjx_QyieSrAVuJ1-gScduwvZFGXcr'})**
     it will probably won't work for you.
     
-    To find out the id find the file in your google drive, do right click and hit "get shareable link". In the shown link you will have the id.
+    To find out the id find the file in your google drive, do right click and hit "get shareable link". Paste the id in the browser and take the id from its url.
     
     Have a look at following image:
     
