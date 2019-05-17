@@ -36,12 +36,12 @@ The plugin is using the **FontAwesome 5 vue-fontawesome component**.
 ```
 
 #How to add a Twitter icon to your App
-if you want to use social icons like the one from twitter make sure to install the @fontawesome/free-brands-svg-icons
+if you want to use social icons like the one from twitter make sure to install the @fortawesome/free-brands-svg-icons
 
 1. import library
  
  ```none
- npm i --save @fontawesome/free-brands-svg-icons
+ npm i --save @fortawesome/free-brands-svg-icons
  ```
  
 2. Add it to your **fontawesome.js**. It should look like the following:
