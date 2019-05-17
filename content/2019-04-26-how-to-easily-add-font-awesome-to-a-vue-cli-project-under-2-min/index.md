@@ -44,7 +44,7 @@ if you want to use social icons like the one from twitter make sure to install t
  npm i --save @fortawesome/free-brands-svg-icons
  ```
  
-2. Add it to your **fontawesome.js**. It should look like the following:
+2. Create a folder **plugins** in the root folder of the project and create a file called **fontawesome.js** in it. Add following content to it:
  
 ```javascript
 import Vue from 'vue'
