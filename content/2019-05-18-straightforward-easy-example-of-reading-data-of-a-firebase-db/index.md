@@ -10,7 +10,7 @@ excerpt: In this post I will show you a straightforward easy example on how to r
 I often find it difficult to start with new technologies because though the documentation is good as soon as you know about the topic,
 it is often not designed for pure newcomers.
 
-This post is designed to help newcomers dive into firebase by providing an onpoint documentation on how
+This post is designed to help newcomers dive into firebase by providing an on point documentation on how
 to setup firebase and read values from a firebase database.
 
 ##Firebase setup:
