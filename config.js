@@ -70,6 +70,10 @@ module.exports = {
     python: {
       name: 'Python',
       description: 'Python is an interpreted, high-level, general-purpose programming language created by Guido van Rossum and first released in 1991.'
+    },
+    firebase: {
+      name: 'Firebase',
+      description: 'Firebase is a mobile and web application development platform developed by Firebase, Inc. in 2011, then acquired by Google in 2014. As of October 2018, the Firebase platform has 18 products, which are used by 1.5 million apps.'
     }
   }
 }
