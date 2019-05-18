@@ -2,7 +2,7 @@
 title: Easy straightforward example of reading data from a Firebase database with Vue
 date: 2019-05-18
 tags: [vuejs,firebase]
-path: blog/2019-05-18-read-data-of-firebase
+path: blog/2019-05-18-read-data-from-firebase
 cover: ./easter-fire.jpg
 excerpt: In this post I will show you a straightforward easy example on how to read data from a Firebase database.
 ---
