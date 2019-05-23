@@ -35,7 +35,7 @@ Data points are clustered based on similarity.
    ![download](./download_data_set.png)
 
   
-4. Save your will file (top2018.csv in our case) next to where your google collaboratory document is.
+4. Save your file (top2018.csv in our case) next to where your google collaboratory document is.
 
     ![top2018](./location_of_dataset.png)
 
@@ -96,7 +96,7 @@ Data points are clustered based on similarity.
 7. Add a new code section --> save your dataset in a variable and get a first overview of your data with .describe()
 
     ```Python
-    df = pd.read_csv('top.csv')
+    df = pd.read_csv('top2018.csv')
     df.describe()
     ```
     
