@@ -8,13 +8,13 @@ excerpt: In this post I will show you how to fill a datetime input with MomentJS
 ---
 ##Setup project with Vue
 
-Install Vue CLI:
+1. Install Vue CLI:
 
 ```
 npm install -g @vue/cli
 ```
 
-Create your vue application
+2. Create your vue application:
 
 ```
 vue create datepicker
@@ -39,7 +39,9 @@ yarn serve
 
 To set your input value to today with the current time use 
 
-**moment().format(moment.HTML5_FMT.DATETIME_LOCAL)**
+```javascript
+moment().format(moment.HTML5_FMT.DATETIME_LOCAL)
+```
 
 Inside your **src/App.vue** the code should look like this:
 
