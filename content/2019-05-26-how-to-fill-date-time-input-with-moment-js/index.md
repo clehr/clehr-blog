@@ -37,7 +37,7 @@ yarn serve
 
 ## Add datepicker input and set value with momentjs
 
-To set your input value to today with the current time use 
+To set your input value to today with the current time use: 
 
 ```javascript
 moment().format(moment.HTML5_FMT.DATETIME_LOCAL)
