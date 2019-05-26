@@ -84,7 +84,7 @@ That's it! At the end you should see this as a result:
  
  ##Resources
  
- Link to the **momentjs** site for further information on how to use: 
+ Link to the **momentjs** site for further information on how to use:  
  http://momentjs.com
 
    
